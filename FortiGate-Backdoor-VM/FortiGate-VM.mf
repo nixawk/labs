@@ -1,0 +1,3 @@
+SHA1(FortiGate-VM.ovf)= f914f3f8e7b1c79538665503018b329516e2953e
+SHA1(FortiGate-VM-disk1.vmdk)= 34a7a5675a194ca9fef61c6737b1afb3b0b9c97f
+SHA1(FortiGate-VM-disk2.vmdk)= 95023aade80a89a03ec81718cceb8da2848dc362
